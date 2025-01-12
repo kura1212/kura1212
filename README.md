@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - <h1 align="center">Hi 👋, I'm Mr. Kura</h1>
-<h3 align="center">A passionate frontend developer backend developer and full stack developer from Ethiopia</h3>
+ align="center">A passionate frontend developer backend developer and full stack developer from Ethiopia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kura1212&label=Profile%20views&color=0e75b6&style=flat" alt="kura1212" /> </p>
 
