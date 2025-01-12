@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Mr. Kura</h1>
+<h3 align="center">A passionate frontend developer backend developer and full stack developer from Ethiopia</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
