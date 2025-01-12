@@ -7,11 +7,8 @@ Here are some ideas to get you started:
 - 
 - 🌱 I’m currently learning .software enginering..
 - 👯 I’m looking to collaborate on .group..
-- 
 - 💬 Ask me about .python html CSS javascript..
 - 📫 How to reach me: lemmakura@gmail.com
-...
-
 - ⚡ Fun fact: I think I am funny...
 - <h1 align="center">Hi 👋, I'm Mr. Kura Lemma</h1>
  align="center">A passionate frontend developer backend developer and full stack developer from Ethiopia
