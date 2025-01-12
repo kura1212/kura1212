@@ -1,29 +1,25 @@
-## Hi there I AM KURA LEMMA👋
+## Hi there 👋
 
 **kura1212/kura1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+- 🌱 I’m currently learning .software enginering..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about .python html CSS javascript..
+- 📫 How to reach me: lemmakura@gmail.com
+...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <h1 align="center">Hi 👋, I'm Mr. Kura</h1>
+- ⚡ Fun fact: I think I am funny...
+- <h1 align="center">Hi 👋, I'm Mr. Kura Lemma</h1>
  align="center">A passionate frontend developer backend developer and full stack developer from Ethiopia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kura1212&label=Profile%20views&color=0e75b6&style=flat" alt="kura1212" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kura1212" alt="kura1212" /></a> </p>
 
-- 💬 Ask me about **python html CSS javascript**
-
-- 📫 How to reach me **lemmakura@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
