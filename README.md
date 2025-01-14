@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kura1212" alt="kura1212" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 style background-color💙 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <p align ="center"><img src ="https://static.vecteezy.com/system/resources/thumbnails/021/746/785/small/holding-a-tree-in-a-ball-ecology-and-environment-concept-with-generative-ai-photo.jpg"/> </p>
